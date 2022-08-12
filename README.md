@@ -14,6 +14,8 @@ General codes for running envirotype-to-phenotype associations (EPA) using parti
 
 > Creating single-step matrices for genomic prediciton: combining past and future GxE data [here](https://github.com/gcostaneto/EPA-PLS/blob/main/Code_3_Genomic_Prediction_Example.R)
 
+> Identifying pivot locations in experimental networks using environmental weights [here](https://github.com/gcostaneto/EPA-PLS/blob/main/Code_4_Pivot_Locations.R)
+
 
 # Data
 
