@@ -40,7 +40,7 @@ TS <- GenAlgForSubsetSelectionNoTest(P = phy_matrix , ntoselect = 5, # 5 groups
                                      niterations=200,minitbefstop=20, tabu=F,tabumemsize = 0,plotiters = T, 
                                      lambda = 1e-5, errorstat = "PEVMEAN", mc.cores = 4)[[1]]
 
-(TS = as.character(TS) )# training set (super-optmized) consisted by some genotypes at some environments
+(TS = as.character(TS) )# training set / most representative locations
 
 
 
