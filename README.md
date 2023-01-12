@@ -4,7 +4,7 @@ General codes for running envirotype-to-phenotype associations (EPA) using parti
 
 # Methodological Overview
 
-  <img align="center" src="/EPA.png" width="100%" height="100%">
+  <img align="center" src="/Scheme_EPA.png" width="100%" height="100%">
   
 # Codes
 
