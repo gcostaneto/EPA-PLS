@@ -2,7 +2,6 @@
 
 General codes for running envirotype-to-phenotype associations (EPA) using partial least squares
 
-# Methodological Overview
 
   <img align="center" src="/Scheme_EPA.png" width="100%" height="100%">
   
